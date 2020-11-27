@@ -28,6 +28,8 @@ This is an open-source app to demonstrate a peer to peer chat using MultipeerCon
 
 ## Screens
 
+![alt text](https://github.com/brijesh0205/iOS-PeertoPeerChat-DemoApp/blob/main/Screen%20Recording%202020-11-27%20at%201.59.03%20PM.gif)
+
 
 ## Dependencies
 
